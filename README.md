@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Insurance-Claims-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Insurance-Claims-Management?style=flat-square&logo=github" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Insurance-Claims-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Insurance-Claims-Management?style=flat-square&logo=github" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Insurance-Claims-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Insurance-Claims-Management?style=flat-square&logo=github" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Insurance-Claims-Management/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Insurance-Claims-Management?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -63,7 +63,7 @@ Below is a comparative breakdown of leading commercial claims management softwar
 
 Full-featured commercial core claims systems are proprietary; however, high-quality open-source components exist for case management, AI FNOL voice agents, actuarial loss reserving, machine learning risk modeling, and fraud detection.
 
-The repositories below are sorted by **GitHub Star Count** (descending):
+The repositories below are sorted by **GitHub Stars_Count** (descending):
 
 - **[frappe / erpnext](https://github.com/frappe/erpnext)** <a href="https://github.com/frappe/erpnext/stargazers"><img src="https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white" alt="Stars"/></a>  
   *Comprehensive open-source ERP system featuring modular case management, task tracking pipelines, document repositories, and general ledger accounting applicable to claims management.*
@@ -96,8 +96,8 @@ The repositories below are sorted by **GitHub Star Count** (descending):
 Contributions are welcome! To suggest a new SaaS solution or open-source repository:
 
 1. 🍴 **Fork** this repository.
-2. 📝 **Edit** `README.md` to add your item (please maintain table & star badge formatting).
-3. 🔍 Ensure descriptions are **factual** and include starting pricing / star count links.
+2. 📝 **Edit** `README.md` to add your item (please maintain table & Stars_Badge formatting).
+3. 🔍 Ensure descriptions are **factual** and include starting pricing / Stars_Count links.
 4. 🚀 Open a **Pull Request (PR)** with a summary of changes.
 
 ---
